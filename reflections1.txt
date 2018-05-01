@@ -1,6 +1,6 @@
 Question: 1. How did viewing the diff between two versions of a file help you spot the bug?
 
-Answer: 1. The process of comparing files help to find and fix the error without having to start all over again.
-2. It saved a great deal of time by taking us to the location around the bug.
+Answer: 1. The process of comparing files help to find and fix the error without having to start all over again for the whole project
+2. It saved a great deal of time taking us to the location around the bug.
 
 Thank you!
